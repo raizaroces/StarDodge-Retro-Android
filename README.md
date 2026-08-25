@@ -1,6 +1,6 @@
 # StarDodge - 2D Retro Arcade Game
 
-A classic 2D survival/dodging game developed as an academic project for our 2nd Year coursework. Built natively in Android Studio using Java/Kotlin with custom canvas or view-based rendering loops.
+A classic 2D survival/dodging game developed. Built natively in Android Studio using Java/Kotlin with custom canvas or view-based rendering loops.
 
 ## Features
 
